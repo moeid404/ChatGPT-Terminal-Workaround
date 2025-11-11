@@ -1,4 +1,10 @@
+
 #  ChatGPT-Terminal-Workaround 
+
+<p align="center">
+  <img src="assets/diagram.png" alt="ChatGPT Terminal Workaround diagram" width="600">
+</p>
+
 
 كنت قاعد شغال في ال Terminal وبتسائل ليه كل مرة عاوز أسال Chatgpt لازم افتح المتصفح واخش عالموقع واكتب السؤال بإيدي؟
 وف نفس الوقت انا مش عاوز ادفع ل api-key quota
